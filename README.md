@@ -727,9 +727,12 @@ The answer to the question “How should we live in the new transparency?” is 
 
 ---
 
-[gensoakane.substack](https://gensoakane.substack.com)  
-[Causal_Ontology_Archive_github](https://github.com/Genso-Akane/Causal_Ontology_Archive)  
-[Causal_Ontology_Archive_zenodo](https://doi.org/10.5281/zenodo.19676696)
+Genso-Akane. (2026). Genso-Akane/LGM_Specification: LGM: The Hardware Specification of Universal Logic (1.0.1). Zenodo. [https://doi.org/10.5281/zenodo.20137960]
+
+> [gensoakane.substack](https://gensoakane.substack.com)  
+> [Engineering_Computing.substack](https://gensoakane.substack.com/p/causal-calculus-the-fundamental-dynamics)  
+> [Causal_Ontology_Archive_github](https://github.com/Genso-Akane/Causal_Ontology_Archive)  
+> [Causal_Ontology_Archive_zenodo](https://doi.org/10.5281/zenodo.20134582)
 
 ---
 
