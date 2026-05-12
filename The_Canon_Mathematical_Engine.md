@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image 12 мая 2026 г , 10_41_50" src="https://github.com/user-attachments/assets/a7f4e481-8b26-4e6a-b50f-ce04d1dc8f03" />
+
+
 # THE FUNDAMENTAL DYNAMICS OF TRAJECTORY
 
 In the Canonical Causal Graph, equations are not merely predictive tools but structural blueprints of physical reality. The dynamics of change are governed by the relationship between the capacity for action and the density of the events that realize it. To modify the path of any system is to manipulate the ratio between its energy and the tempo of the process that carries it.
@@ -887,3 +890,17 @@ The circuit allows for the precise calculation and control of systemic behavior.
 
 ---
 
+> **Causal_Ontology_Archive:** > [https://github.com/Genso-Akane/Causal_Ontology_Archive]
+
+---
+
+⚖️ License
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](./LICENSE) file for the full text.
+
+---
+
+<img width="1536" height="1024" alt="ChatGPT Image 12 мая 2026 г , 10_41_50" src="https://github.com/user-attachments/assets/e469a71a-daa2-4d06-b000-54552d153a9d" />
+
+---
+
+<img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/179e6a8e-1b8d-4e4e-b331-d557b888be47" />
