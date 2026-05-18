@@ -2,17 +2,17 @@
 
 ## Causal chain:
 
-`2. Event` + `9. Process` → `11. Tempo of Processes` → `18. Gravitation` → `24. Energy-Conditioned Modification of Dynamics`.
+`2. Event` + `9. Process` → `11. Tempo of Processes` → `18. Gravitation` → `24. Energy-Conditioned Modification of Dynamics`
 
 ---
 
-# 1. DEFINITION AND CAUSE
+## 1. DEFINITION AND CAUSE
 
 - Cause: Combination of `2. Event` (fact of change) and `9. Process` (chain of such facts). Without the discreteness of events and their connectedness, the concept of tempo is causally impossible.
 
 - Invariant: `11. Tempo of Processes` is the density of `2. Events` within a single `9. Process`. It is not “time,” but the physical cause of the emergence of `10. Time`.
 
-# 2. MECHANISM: ZONE OF MODIFICATION OF DYNAMICS
+## 2. MECHANISM: ZONE OF MODIFICATION OF DYNAMICS
 
 The mechanism of `11. Tempo of Processes` acts as the primary causal filter and modulator of the `25. Universe`:
 
@@ -28,7 +28,7 @@ $$
 
 - Control through `24. Modification`: Any engineering control of system regimes (LGM architecture) is carried out through artificial modification of `11. Tempo of Processes`. This automatically leads to `24. Energy-Conditioned Modification of Dynamics`, changing the accessible `14. Trajectories` of the system without violation of `1. Causality`.
 
-# 3. CONSEQUENCE: STABILIZATION AND REGIMES
+## 3. CONSEQUENCE: STABILIZATION AND REGIMES
 
 - Stabilization: Achieved through `23. Causal Consistency of Processes`. If `11. Tempo of Processes` is synchronized with `16. Limiting Velocity of a Process`, the system transitions into a regime of stability (`6. Matter`).
 
@@ -38,7 +38,7 @@ $$
 
 ---
 
-# 4. PRACTICAL CONCLUSION (LGM OPERATION)
+## 4. PRACTICAL CONCLUSION (LGM OPERATION)
 
 Control of `11. Tempo of Processes` allows:
 
@@ -47,3 +47,5 @@ Control of `11. Tempo of Processes` allows:
 2. Engineering Adjustment: Modification of `24. Energy-Conditioned Modification of Dynamics` for acceleration of computation (resonance) or suppression of `12. Entropy`.
 
 3. Validation: Any process claiming reality must possess a clearly defined `11. Tempo of Processes`. Absence of tempo = absence of `9. Process` = non-physicality.
+
+<img width="1536" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/4f5a22b7-46dc-475c-babe-8380a41fdfc6" />
