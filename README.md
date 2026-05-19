@@ -727,12 +727,12 @@ The answer to the question “How should we live in the new transparency?” is 
 
 ---
 
-Genso-Akane. (2026). Genso-Akane/LGM_Specification: LGM: The Hardware Specification of Universal Logic (1.0.1). Zenodo. [https://doi.org/10.5281/zenodo.20137960]
+Genso-Akane. (2026). Genso-Akane/LGM_Specification: LGM: The Core Specification of Universal Causal Logic (1.1.1). Zenodo. [https://doi.org/10.5281/zenodo.20137959]
 
 > [gensoakane.substack](https://gensoakane.substack.com)  
 > [LGM:_Specifications.substack](https://gensoakane.substack.com/p/lgm-the-hardware-specification-of)  
 > [Causal_Ontology_Archive_github](https://github.com/Genso-Akane/Causal_Ontology_Archive)  
-> [Causal_Ontology_Archive_zenodo](https://doi.org/10.5281/zenodo.20134582)
+> [Causal_Ontology_Archive_zenodo](https://doi.org/10.5281/zenodo.20134581)
 
 ---
 
