@@ -50,7 +50,7 @@ The observable phenomena of classical cosmology are completely reduced to anomal
 
 `“Cosmological Constant”` — a stationary, stable contribution to the background `11. Tempo of Processes` of the `Universe`, registered by instruments through a cascade of `21. Measurements`.
 
-Practical Conclusion (Engineering Control)
+### Practical Conclusion (Engineering Control)
 
 All available diagnostics of hidden parameters of cosmological objects are performed exclusively through the registration of deformations of `14. Trajectories` of neighboring systems.
 
