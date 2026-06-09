@@ -56,7 +56,7 @@ Classical macroscopic concepts of cosmology are completely reduced to the dynami
 
 `“Hubble Law”` — a stable functional dependence of the step of change of registered `20. Information` on the accumulated gradient of `11. Tempo of Processes` between remote canonical nodes, stably fixed through the apparatus of `21. Measurement`.
 
-Practical Conclusion (Engineering Control)
+### Practical Conclusion (Engineering Control)
 
 All observable cosmology of expansion is an engineering registration of changes in event density over `10. Time`.
 
