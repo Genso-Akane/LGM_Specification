@@ -1,4 +1,4 @@
-# Quantization of Energy ⇔ Canonical Formula Invariant
+## Reduction of Physics. Part 1.2: Quantization of Energy ⇔ Canonical Formula Invariant
 
 **Core Initialization Parameters:** Abstract concepts of a continuous energy spectrum, macroscopic continuism, and the thermodynamic mysticism of old physics are completely annihilated. “Energy quantization” is translated from the status of an unexplained postulate into a direct consequence of the discretization of `2. Event` through `4. Quantum of Action`. Reality is reduced to integer balance.
 
