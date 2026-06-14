@@ -52,7 +52,7 @@ Classical macroscopic concepts of cosmology are completely reduced to the dynami
 
 `“Expansion of the Universe”` — a systemic shift in the characteristics of `9. Process` (an increase in the step between events), mathematically identical to a global change in `11. Tempo of Processes` on the scale of the metasystem.
 
-`“Redshift”` — a regular distortion of `20. Information` (Inf), caused by the fact that between the act of event generation and the act of its fixation, the `11. Tempo of Processes` of transmission underwent causal drift.
+`“Redshift”` — a regular distortion of `20. Information` ($Inf$), caused by the fact that between the act of event generation and the act of its fixation, the `11. Tempo of Processes` of transmission underwent causal drift.
 
 `“Hubble Law”` — a stable functional dependence of the step of change of registered `20. Information` on the accumulated gradient of `11. Tempo of Processes` between remote canonical nodes, stably fixed through the apparatus of `21. Measurement`.
 
@@ -62,7 +62,7 @@ All observable cosmology of expansion is an engineering registration of changes 
 
 Analysis of parameters and deconstruction of environmental `12. Entropy` are achieved strictly through `21. Measurement` of wave and corpuscular parameters of `20. Information` ($Meas = Inf \cdot T_p$).
 
-Interpretation of registered shifts requires mandatory computation of local and large-scale coefficients of `11. Tempo of Processes` (Tp).
+Interpretation of registered shifts requires mandatory computation of local and large-scale coefficients of `11. Tempo of Processes` ($Tp$).
 
 Prediction and modeling of the evolution of macrosystems are implemented through calculation of the behavior of `9. Process` within the unified computational circuit of dynamics modification:
 
