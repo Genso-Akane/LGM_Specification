@@ -36,7 +36,7 @@ $$U = \int\limits_{P_r} ( E_v \cdot C ) = \int\limits_{P_r} \left( E_v \cdot C \
 
 The concept of a global container is completely eliminated. `25. Universe` is neither a physical object, nor an astronomical body, nor a geometric spacetime, but the complete causal process possessing absolute connectivity:
 
-No local `9. Process` or isolated `2. Event` can possess causal autonomy outside the integral `U`, since their parameters (Ev, Tp, Inf) are embedded within the common computational matrix.
+No local `9. Process` or isolated `2. Event` can possess causal autonomy outside the integral `U`, since their parameters ($Ev, Tp, Inf$) are embedded within the common computational matrix.
 
 Large-scale phenomena interpreted by classical physics as the “geometry of the world” are merely consequences of the distribution of event-density gradients within this unified metaprocess.
 
@@ -50,7 +50,7 @@ Engineering intervention and regime reconfiguration are fundamentally possible a
 
 ### Global Limit:
 
-Direct or indirect control of `25. Universe` as a whole is mathematically impossible, since the controlling system itself is an embedded variable (Sys) under the overall integral `U`.
+Direct or indirect control of `25. Universe` as a whole is mathematically impossible, since the controlling system itself is an embedded variable ($Sys$) under the overall integral `U`.
 
 ### Prediction:
 
