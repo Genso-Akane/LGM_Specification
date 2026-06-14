@@ -36,7 +36,7 @@ Coordination of any changes between systems is limited by `16. Limiting Velocity
 
 
 
-Processes confined by the boundary continue to modify the structure of internal microevents, generating local `20. Information` (Inf = Ev). However, transmission of this structure outward is blocked by the coordination limit. Only a residual causal trace reaches the outside, fixed through `21. Measurement` on the external framework of the receiving `7. System`:
+Processes confined by the boundary continue to modify the structure of internal microevents, generating local `20. Information` ($Inf = Ev$). However, transmission of this structure outward is blocked by the coordination limit. Only a residual causal trace reaches the outside, fixed through `21. Measurement` on the external framework of the receiving `7. System`:
 
 $$Meas = Inf \cdot T_p = E_v \cdot T_p$$
 
@@ -60,7 +60,7 @@ Analysis of objects beyond the causal limit is implemented exclusively through `
 
 $$Meas = Inf \cdot Sys$$
 
-Interpretation of boundary phenomena requires comprehensive recalculation of local slowdown coefficients of `11. Tempo of Processes` (Tp).
+Interpretation of boundary phenomena requires comprehensive recalculation of local slowdown coefficients of `11. Tempo of Processes` ($Tp$).
 
 Prediction and modeling of the behavior of critical zones are performed through calculation of the dynamic circuit of process modification:
 
