@@ -26,7 +26,7 @@ $$T_p = \frac{E_v}{P_r}$$
 
 Extreme concentration of energy deforms event density, generating localized `18. Gravitation`. Its stabilization engineering regime is calculated as:
 
-$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^2}{E_v^2}$$
+$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^3}{E_v^2}$$
 
 
 
