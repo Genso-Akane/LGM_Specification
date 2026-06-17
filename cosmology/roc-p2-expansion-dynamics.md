@@ -26,7 +26,7 @@ $$T_p = \frac{E_v}{P_r}$$
 
 The dynamic inhomogeneity of this tempo forms `18. Gravitation`, fixed through the balance of capacity to the square of event density:
 
-$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^2}{E_v^2}$$
+$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^3}{E_v^2}$$
 
 
 
@@ -40,7 +40,7 @@ $$\Delta Tr \sim I \cdot P_r = \frac{E}{T_p} \cdot P_r$$
 
 
 
-The outcome structure of each local event manifests as `20. Information` (Inf = Ev). A change in tempo Tp causally transforms the recorded structure, which is registered through `21. Measurement` on the material framework of `7. System`:
+The outcome structure of each local event manifests as `20. Information` ($Inf = Ev$). A change in tempo ($Tp$) causally transforms the recorded structure, which is registered through `21. Measurement` on the material framework of `7. System`:
 
 $$Meas = Inf \cdot T_p = E_v \cdot T_p$$
 
