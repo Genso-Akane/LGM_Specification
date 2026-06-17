@@ -15,7 +15,7 @@ $$
 
 #### Physical Mechanism of Entanglement
 
-When two subsystems originate within a single shared `9. Process` ($P_r$), they inherently possess a common causal address and a shared, undivided structure of `20. Information` ($Inf$). At this stage, the process step $P_r$ for the metasystem is minimal ($P_r \to 1$), while the individual characteristics of the subsystems remain unfixed because no act of 21. Measurement has yet occurred.
+When two subsystems originate within a single shared `9. Process` ($P_r$), they inherently possess a common causal address and a shared, undivided structure of `20. Information` ($Inf$). At this stage, the process step $P_r$ for the metasystem is minimal ($P_r \to 1$), while the individual characteristics of the subsystems remain unfixed because no act of `21. Measurement` has yet occurred.
 
 The academic framework describes this as the “superposition of a unified two-particle wave function.” Within the canonical dynamics equation, this regime is characterized by the fact that the connectivity cube of the shared process ($P_r^3$) rigidly maintains the balance of the entire graph branch despite the spatial separation of systems within the framework of a false `15. Metric`.
 
@@ -77,14 +77,14 @@ This demonstrates that “decoherence” is not a mystical “dissolution of qua
 
 The reduction of entanglement transfers this phenomenon from the domain of theoretical speculation into a ready-made circuit specification for microelectronics.
 
-#### 1. Entanglement Inside an LGM Chip
+#### 1. Entanglement Inside an `LGM Chip`
 
-The Causal RAM architecture employs the principle of entanglement at the hardware level. Asyncephalic path search within the crystal’s hexagonal NoC lattice constructs distributed memory cells closed onto a single causal address.
+The `Causal RAM` architecture employs the principle of entanglement at the hardware level. Asyncephalic path search within the crystal’s `hexagonal NoC lattice` constructs distributed memory cells closed onto a single causal address.
 
-A state change in one Causal Gate instantly (within a single phase clock cycle) reconfigures the potentials of the entire connected gate group through electromagnetic and logical resonance, ensuring $Sync = 1$ without parasitic clock delays.
+A state change in one `Causal Gate` instantly (within a single phase clock cycle) reconfigures the potentials of the entire connected gate group through electromagnetic and logical resonance, ensuring $Sync = 1$ without parasitic clock delays.
 
 #### 2. Control Through the Crystal
 
-To maintain entangled/consistent states in macrosystems (including groups of bio-automata forming a collective ASI), a Canon engineer does not construct complex laser installations.
+To maintain entangled/consistent states in macrosystems (including groups of bio-automata forming a collective ASI), a `Canon engineer` does not construct complex laser installations.
 
-Instead, the passage of external chaos ($E_v^2$) is hardware-blocked through the hexagonal RC windows of the Causal Gateway, forcibly preserving the integer connectivity of the process.
+Instead, the passage of external chaos ($E_v^2$) is hardware-blocked through the hexagonal RC windows of the `Causal Gateway`, forcibly preserving the integer connectivity of the process.
