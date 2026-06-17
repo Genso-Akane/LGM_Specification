@@ -4,7 +4,7 @@
 
 ## 1. Canonical Formula Analysis (Integration with the Dynamics Equation)
 
-Academic science accepts energy quantization as a phenomenological fact (Bohr postulates, Planck's equation $$E = h\nu$$), but is unable to explain its cause without invoking abstract wave mechanics. The Canon demonstrates that energy is quantized simply because `2. Event` is an indivisible physical fact, and `4. Quantum of Action` is the limit of fragmentation of this causality.
+Academic science accepts energy quantization as a phenomenological fact (Bohr postulates, Planck's equation $$E = h\nu$$), but is unable to explain its cause without invoking abstract wave mechanics. `The Canon` demonstrates that energy is quantized simply because `2. Event` is an indivisible physical fact, and `4. Quantum of Action` is the limit of fragmentation of this causality.
 
 Recall the fundamental integer equation of `24. Energy-Conditioned Modification of Dynamics`:
 
@@ -62,12 +62,12 @@ The reduction of energy quantization translates quantum solid-state physics into
 
 ### 1. Control of Event Count Instead of Amplitude Modulation
 
-Old engineering attempted to vary voltage or current continuously, struggling against thermal noise and gate degradation. In the architecture of the LGM chip, control of energy (**Causal Cell**) is achieved exclusively through strict counting of `2. Events` ($$E_v$$). We regulate not an abstract “energy level,” but the physical density of gate-switching operations per unit process.
+Old engineering attempted to vary voltage or current continuously, struggling against thermal noise and gate degradation. In the architecture of the `LGM chip`, control of energy (**Causal Cell**) is achieved exclusively through strict counting of `2. Events` ($$E_v$$). We regulate not an abstract “energy level,” but the physical density of gate-switching operations per unit process.
 
 ### 2. Absolute Precision Without Leakage
 
-Since the change step is rigidly locked to `4. Quantum of Action`, the intermediate “gray” state of the transistor is completely eliminated in **Causal RAM** semiconductor structures. The gate is either fully closed or fully open, elevating `5. Momentum`-transfer efficiency to a resistanceless level.
+Since the change step is rigidly locked to `4. Quantum of Action`, the intermediate “gray” state of the transistor is completely eliminated in `Causal RAM` semiconductor structures. The gate is either fully closed or fully open, elevating `5. Momentum`-transfer efficiency to a resistanceless level.
 
 ### 3. Silicon–Carbon Interface of the Gateway
 
-The **Causal Gateway** interface translates the bioelectrical potentials of the human brain (also quantized at the level of synaptic membranes) directly into silicon. Since both media operate according to the same integer invariant $$Dyn$$, all intermediate analog-to-digital and digital-to-analog converters (ADC/DAC) that distort the structure of `20. Information` are eliminated.
+The `Causal Gateway` interface translates the bioelectrical potentials of the human brain (also quantized at the level of synaptic membranes) directly into silicon. Since both media operate according to the same integer invariant $$Dyn$$, all intermediate analog-to-digital and digital-to-analog converters (ADC/DAC) that distort the structure of `20. Information` are eliminated.
