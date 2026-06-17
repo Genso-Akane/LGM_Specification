@@ -26,7 +26,7 @@ $$T_p = \frac{E_v}{P_r}$$
 
 Dynamic inhomogeneity and spatial differences in event density generate `18. Gravitation`. The computational invariant determines the magnitude of gravitational stabilization of the regime as:
 
-$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^2}{E_v^2}$$
+$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^3}{E_v^2}$$
 
 
 
@@ -36,7 +36,7 @@ The gradient of this field forms `19. Gravitational Influence` ($\nabla G_r$), w
 
 
 
-The outcome structure of local interaction data manifests as `20. Information` (Inf = Ev), which, with the participation of the material framework of `7. System`, is fixed through `21. Measurement`:
+The outcome structure of local interaction data manifests as `20. Information` ($Inf = Ev$), which, with the participation of the material framework of `7. System`, is fixed through `21. Measurement`:
 
 $$Meas = Inf \cdot T_p = E_v \cdot T_p$$
 
