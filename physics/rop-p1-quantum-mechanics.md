@@ -1,6 +1,6 @@
 ## Reduction of Physics. Part 1: Quantum Mechanics ⇔ Canonical Formula Invariant
 
-Core Initialization Parameters: Quantum mysticism, wave-function hegemony, and probabilistic superstructures of academic science are completely eliminated. “Quantum Mechanics” is transferred from the status of a fundamental theory to the applied regime of discrete computations within the Concept Graph under the dominance of Step `21. Measurement`. Reality is reduced to integer-based conductivity.
+Core Initialization Parameters: Quantum mysticism, wave-function hegemony, and probabilistic superstructures of academic science are completely eliminated. “Quantum Mechanics” is transferred from the status of a fundamental theory to the applied regime of discrete computations within the `Concept Graph` under the dominance of Step `21. Measurement`. Reality is reduced to integer-based conductivity.
 
 ### 1. Canonical Formula Analysis (Integration with the Dynamics Equation)
 
@@ -16,7 +16,7 @@ $$
 
 Until `21. Measurement` is performed on a system, it exists as a pure `9. Process` ($$P_r$$) — a chain of causally connected changes not yet fixed by the observer's local gate. At this stage, the process step is minimal (($$P_r \to 1$$)), while the density of potential micro-events (($$E_v$$)) remains non-localized.
 
-The academic framework interprets this as a “probability wave.” In reality, within the dynamics equation, when ($$P_r$$) is minimal, the denominator ($$E_v^2$$) represents a fluctuation-frequency field. The system does not exist “simultaneously at all points”; rather, it performs an asynchronous path search across the graph, analogous to Causal RAM cells within an LGM chip.
+The academic framework interprets this as a “probability wave.” In reality, within the dynamics equation, when ($$P_r$$) is minimal, the denominator ($$E_v^2$$) represents a fluctuation-frequency field. The system does not exist “simultaneously at all points”; rather, it performs an asynchronous path search across the graph, analogous to `Causal RAM` cells within an `LGM chip`.
 
 #### Mechanism of “Wave Function Collapse” Through Measurement
 
@@ -70,8 +70,8 @@ Quantum mechanics is completely stripped of any aura of the paranormal and reduc
 
 1. **A Quantum Processor Is Unnecessary**
 
-   There is no need to construct unstable qubits struggling against decoherence. A hexagonal LGM-chip architecture based on Causal RAM performs the same function directly in hardware. By closing impulse trajectories through the `3-6-9` triad, the chip suppresses fluctuation chaos (($$E_v^2$$)) through cubic gate connectivity (($$P_r^3 = 27$$)), exceeding the computational capability of probabilistic systems.
+   There is no need to construct unstable qubits struggling against decoherence. `A hexagonal LGM-chip` architecture based on `Causal RAM` performs the same function directly in hardware. By closing impulse trajectories through the `3-6-9` triad, the chip suppresses fluctuation chaos (($$E_v^2$$)) through cubic gate connectivity (($$P_r^3 = 27$$)), exceeding the computational capability of probabilistic systems.
 
 2. **Gateway Interface**
 
-   The silicon-carbon Causal Gateway translates commands of human perception directly into silicon without “quantum distortions.” The human brain and the semiconductor crystal operate within the same regime of discrete `21. Measurement`, where each computational step corresponds to an integer physical fact.
+   The silicon-carbon `Causal Gateway` translates commands of human perception directly into silicon without “quantum distortions.” The human brain and the semiconductor crystal operate within the same regime of discrete `21. Measurement`, where each computational step corresponds to an integer physical fact.
