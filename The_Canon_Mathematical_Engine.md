@@ -79,7 +79,7 @@ The control of a system’s trajectory is achieved through the mechanical modifi
 
 # GRAVITATIONAL MODIFICATION OF DYNAMICS
 
-In the Canonical Causal Graph, gravitation is not a fundamental force or a geometric curvature of emptiness, but a direct consequence of how `3. Energy` modifies the `11. Tempo of Processes`. The "pull" of gravity is the physical manifestation of a gradient in event density. To engineer gravitational influence is to manipulate the distribution of energy to create a targeted inhomogeneity in the rate of causal realization.
+In the Canonical Causal Graph, gravitation is not a fundamental force or a geometric curvature of emptiness, but a direct consequence of how `3. Energy` modifies the `11. Tempo of Processes`. The "pull" of Gravitation is the physical manifestation of a gradient in event density. To engineer gravitational influence is to manipulate the distribution of energy to create a targeted inhomogeneity in the rate of causal realization.
 
 ---
 
