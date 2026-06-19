@@ -14,7 +14,7 @@ $$
 
 #### Physical Mechanism of “Superposition” and the “Wave”
 
-Until `21. Measurement` is performed on a system, it exists as a pure `9. Process` ($$P_r$$) — a chain of causally connected changes not yet fixed by the observer's local gate. At this stage, the process step is minimal (($$P_r \to 1$$)), while the density of potential micro-events (($$E_v$$)) remains non-localized.
+Until `21. Measurement` is performed on a system, it exists as a pure `9. Process` ($$P_r$$) — a chain of causally connected changes not yet fixed by the observer's local gate. At this stage, the process step is minimal ($$P_r \to 1$$), while the density of potential micro-events ($$E_v$$) remains non-localized.
 
 The academic framework interprets this as a “probability wave.” In reality, within the dynamics equation, when ($$P_r$$) is minimal, the denominator ($$E_v^2$$) represents a fluctuation-frequency field. The system does not exist “simultaneously at all points”; rather, it performs an asynchronous path search across the graph, analogous to `Causal RAM` cells within an `LGM chip`.
 
@@ -26,7 +26,7 @@ $$
 Meas = Inf \cdot T_p
 $$
 
-Within this quantum of action, the variable event density ($E_v$) immediately collapses to a specific integer value (($E_v = 1,2,3...$)). The fluctuation field in the denominator of the ($Dyn$) equation contracts, and the process trajectory becomes fixed as `20. Information` (the structure of the result).
+Within this quantum of action, the variable event density ($E_v$) immediately collapses to a specific integer value ($E_v = 1,2,3...$). The fluctuation field in the denominator of the ($Dyn$) equation contracts, and the process trajectory becomes fixed as `20. Information` (the structure of the result).
 
 “Collapse” is therefore not the physical compression of an abstract wave, but an instantaneous transition of the gate from a frequency-based path-search regime into a state-register fixation regime.
 
@@ -50,19 +50,19 @@ $$
 
 1. When a pair of “entangled” particles is created, both originate within the same act of `2. Event` and therefore possess a common causal address and shared `20. Information`.
 
-2. When the first system performs `21. Measurement` on particle `A`, it fixes the local `11. Tempo of Processes` (($$T_{pA}$$)) and determines the value of ($$Dyn_A$$).
+2. When the first system performs `21. Measurement` on particle `A`, it fixes the local `11. Tempo of Processes` ($$T_{pA}$$) and determines the value of ($$Dyn_A$$).
 
-3. Since both points remain rigidly connected through a common initial cause, any change of ($$T_{pA}$$) at the first location is instantaneously mirrored in the potential state of the second location so that the overall consistency value of the metasystem remains unchanged (($Sync = 1$)).
+3. Since both points remain rigidly connected through a common initial cause, any change of ($$T_{pA}$$) at the first location is instantaneously mirrored in the potential state of the second location so that the overall consistency value of the metasystem remains unchanged ($Sync = 1$).
 
 No signal travels from particle `A` to particle `B` through “space.” Space as a medium does not exist; it is only an index of differences. Measurement at one graph location automatically recalculates the conductivity of the entire causal branch.
 
-The limitation imposed by `16. Limiting Process Velocity` (($$V_{lim}$$)) is not violated because no physical transport of matter occurs between points `A` and `B` during the measurement. Instead, a unified integer register of the metasystem switches state.
+The limitation imposed by `16. Limiting Process Velocity` ($$V_{lim}$$) is not violated because no physical transport of matter occurs between points `A` and `B` during the measurement. Instead, a unified integer register of the metasystem switches state.
 
 ### 3. Deconstruction of Academic and Common-Sense Thinking
 
 * **Academic Inertia:** “The quantum world is fundamentally probabilistic, indeterministic, and described by a continuous Hilbert space.”
 
-* **Canonical Response:** Probability is a scientist’s acknowledgment of insufficient coordination. Reality computes strictly through integer quanta of action. Hilbert space is a false geometric superstructure that artificially inflates the description step (($$P_r \to \max$$)) and generates synonym proliferation. Quantum correlations are not magic; they are the normal operation of the `Universe’s` asynchronous bus maintaining the balance of the dynamics equation ($Dyn$).
+* **Canonical Response:** Probability is a scientist’s acknowledgment of insufficient coordination. Reality computes strictly through integer quanta of action. Hilbert space is a false geometric superstructure that artificially inflates the description step ($$P_r \to \max$$) and generates synonym proliferation. Quantum correlations are not magic; they are the normal operation of the `Universe’s` asynchronous bus maintaining the balance of the dynamics equation ($Dyn$).
 
 ### 4. Engineering Conclusion for the Layperson (Control Through the Crystal)
 
@@ -70,7 +70,7 @@ Quantum mechanics is completely stripped of any aura of the paranormal and reduc
 
 1. **A Quantum Processor Is Unnecessary**
 
-   There is no need to construct unstable qubits struggling against decoherence. `A hexagonal LGM-chip` architecture based on `Causal RAM` performs the same function directly in hardware. By closing impulse trajectories through the `3-6-9` triad, the chip suppresses fluctuation chaos (($$E_v^2$$)) through cubic gate connectivity (($$P_r^3 = 27$$)), exceeding the computational capability of probabilistic systems.
+   There is no need to construct unstable qubits struggling against decoherence. `A hexagonal LGM-chip` architecture based on `Causal RAM` performs the same function directly in hardware. By closing impulse trajectories through the `3-6-9` triad, the chip suppresses fluctuation chaos ($$E_v^2$$) through cubic gate connectivity ($$P_r^3 = 27$$), exceeding the computational capability of probabilistic systems.
 
 2. **Gateway Interface**
 
