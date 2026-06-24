@@ -26,7 +26,7 @@ $$T_p = \frac{E_v}{P_r}$$
 
 The dynamic inhomogeneity of this tempo forms `18. Gravitation`, fixed through the balance of capacity to the square of event density:
 
-$$G_r = \frac{E}{T_p^2} = \frac{E \cdot P_r^3}{E_v^2}$$
+$$G_r = \frac{E}{T_p^2}$$
 
 
 
